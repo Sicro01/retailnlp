@@ -1,0 +1,10 @@
+2020-10-30 16:02:56 - retailnlp - INFO - ################ starting ################
+2020-10-30 16:02:56 - retailnlp - DEBUG - fuzzymatch: starting
+2020-10-30 16:02:56 - retailnlp - DEBUG - fuzzymatch:len df_invoice_lines_rl before dedupe=114
+2020-10-30 16:02:56 - retailnlp - DEBUG - fuzzymatch:len df_invoice_lines_rl after dedupe=42
+2020-10-30 16:02:56 - retailnlp - INFO - save_df_as_csv: number of items being saved=42
+2020-10-30 16:02:56 - retailnlp - DEBUG - fuzzymatch: before append rows:number of addtl rows=63:len of df_invoice_lines_rl=42:len of df_products=105
+2020-10-30 16:02:56 - retailnlp - INFO - save_df_as_csv: number of items being saved=48
+2020-10-30 16:02:56 - retailnlp - DEBUG - fuzzymatch: after append rows:number of addtl rows=63:len of df_invoice_lines_rl=48:len of df_products=105
+2020-10-30 16:02:56 - retailnlp - DEBUG - fuzzymatch: len candidate_links=5040
+2020-10-30 16:02:56 - retailnlp - INFO - log_remove_handlers: Removing all existing log handlers

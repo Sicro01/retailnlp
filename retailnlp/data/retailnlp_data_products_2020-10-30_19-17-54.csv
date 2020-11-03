@@ -1,0 +1,106 @@
+PRODUCT_NUMBER,RESULT_PAGE_NUMBER,RESULT_PAGE_INDEX_POSITION,PRODUCT_NAME,PRODUCT_DESCRIPTION,WEB_SELLING_PRICE,CALCULATED_COST_PRICE
+1-0,1,0,coke,"(2 Pack) Coca-Cola Soda Soft Drink, 12 fl oz, 12 Pack",12.96,11.4
+1-1,1,1,coke,"Coca-Cola Soda Soft Drink, 12 fl oz, 24 Pack",8.78,7.81
+1-2,1,2,coke,"(2 pack) Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack",8.62,7.76
+1-3,1,3,coke,"(2 pack) Coca-Cola Soda Soft Drink, 7.5 fl oz, 10 Pack",9.96,9.16
+1-4,1,4,coke,"Coca-Cola Soda Soft Drink, 2 Liters",1.74,1.5
+1-5,1,5,coke,"(2 Pack) Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack",12.96,11.15
+1-6,1,6,coke,"(2 pack) Diet Coke Soda Soft Drink, 16.9 fl oz, 6 Pack",8.62,7.76
+1-7,1,7,coke,"Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 24 Pack",8.78,7.73
+1-8,1,8,coke,"(2 Pack) Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 12 Pack",12.96,11.92
+1-9,1,9,coke,"(2 pack) Coke Zero Sugar Diet Soda Soft Drink, 16.9 fl oz, 6 Pack",8.62,7.84
+1-10,1,10,coke,"Diet Coke Soda Soft Drink, 12 fl oz, 24 Pack",8.78,8.08
+1-11,1,11,coke,"(2 pack) Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack",8.62,7.93
+1-12,1,12,coke,"(2 pack) Cherry Coke Mini Cans, Cherry Flavored Coca-Cola Soda Soda Soft Drink, Fridge Pack, 7.5 fl oz, 10 Pack",9.96,8.47
+1-13,1,13,coke,"Diet Coke Caffeine Free Soda Soft Drink, 2 Liters",1.74,1.51
+1-14,1,14,coke,"(2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack",9.96,8.96
+1-15,1,15,coke,"Coca-Cola Soda Soft Drink, 8 fl oz, 6 Pack",4.68,4.07
+1-16,1,16,coke,"(2 pack) Diet Coke Soda Soft Drink, 7.5 fl oz, 10 Pack",10.65,9.48
+1-17,1,17,coke,"Coke Zero Sugar Diet Soda Soft Drink, 2 Liters",1.74,1.55
+1-18,1,18,coke,"Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack",4.68,4.07
+1-19,1,19,coke,"Diet Coke Soda Soft Drink, 2 Liters",1.74,1.62
+1-20,1,20,coke,"(2 pack) Coca-Cola Orange Vanilla Soda Soft Drinks, 16.9 fl oz, 6 Pack",8.62,8.02
+1-21,1,21,coke,"Cherry Vanilla Coke, Cherry Vanilla Flavored Coca-Cola Soda Pop Soft Drink, Fridge Pack, 12 fl oz, 12 Pack",5.08,4.37
+1-22,1,22,coke,"Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack",2.76,2.35
+1-23,1,23,coke,"Coca-Cola Soda Soft Drink, 12 fl oz, 8 Pack",4.28,3.89
+1-24,1,24,coke,"Coca-Cola, Coke Classic, Original, 12oz Cans (Pack of 18, Total of 216 oz)",21.99,20.45
+1-25,1,25,coke,"Coca-Cola Soda Soft Drink, 1.25 Liters",1.08,0.97
+1-26,1,26,coke,"Coca-Cola Orange Vanilla Soda Soft Drinks, 12 fl oz, 12 Pack",5.08,4.67
+1-27,1,27,coke,"Coca-Cola Soda Soft Drink, 20 fl oz",1.88,1.77
+1-28,1,28,coke,"Coca-Cola Mini Cans (7.5 Ounce, 30 Pack)",29.99,28.19
+1-29,1,29,coke,"Coca-Cola Cherry Soda Soft Drink, 7.5 fl oz, 6 Pack",2.76,2.57
+1-30,1,30,coke,"coca-cola drink cans, 12 fl. oz. (pack of 35)",45.99,40.93
+1-31,1,31,coke,"Coca-Cola Cherry Soda Soft Drink, 12 fl oz, 12 Pack",5.08,4.67
+1-32,1,32,coke,"Coca-Cola Cherry Soda Soft Drink, 2 Liters",1.74,1.53
+1-33,1,33,coke,"Diet Coke Soda Soft Drink, 1.25 Liters",1.08,0.92
+1-34,1,34,coke,"Diet Coke Feisty Cherry Soda Soft Drink, 12 fl oz, 8 Pack",3.84,3.42
+1-35,1,35,coke,"Diet Coke Soda Soft Drink, 12 fl oz, 8 Pack",4.28,3.81
+1-36,1,36,coke,"Coca-Cola Zero Sugar Soda, Cherry Vanilla, 20 Fl Oz Single Bottle",1.88,1.77
+1-37,1,37,coke,"Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 8 Pack",4.28,3.85
+2-0,2,0,coke,"Diet Coke Soda Soft Drink, 20 fl oz",1.88,1.65
+2-1,2,1,coke,"Coke De Mexico Fiesta Pack Glass Bottles, Variety Pack, 12 Fl Oz, 12 Count",32.37,27.51
+2-2,2,2,coke,"Mexican Coke Fiesta Pack, 12 fl oz Glass Bottles (Pack of 6, Total of 72 Oz)",23.95,22.27
+2-3,2,3,coke,"Coca-Cola, Coke Classic, Original, 20oz Bottle (Pack of 10, Total of 200 oz)",29.95,25.46
+2-5,2,5,coke,"Coke Zero Sugar Diet Soda Soft Drink, 20 fl oz",1.88,1.77
+2-6,2,6,coke,"Diet Coke, 7.5 oz Mini Cans (Pack of 12, Total of 90 Fl Oz)",19.99,17.59
+2-7,2,7,coke,2 Pack of Coca Cola 16 oz Affinity Fountain,12.99,11.56
+2-8,2,8,coke,"Coca-Cola Orange Vanilla Soda Soft Drinks, 20 fl oz",1.88,1.69
+2-9,2,9,coke,"diet coke, 12-ounce cans (pack of 24)",30.0,25.8
+2-10,2,10,coke,Diet Coke - 32/12 oz. cans by Coca-Cola,31.99,27.83
+2-11,2,11,coke,"Diet Coke Soda Soft Drink, 16.9 fl oz, 24 Pack",38.99,33.53
+2-12,2,12,coke,"Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 35 Pack",39.1,35.97
+2-13,2,13,coke,"Coca-Cola Cherry Soda Soft Drink, 20 fl oz",1.88,1.69
+2-14,2,14,coke,Coke 18 pack (12 Oz Cans),48.99,42.13
+2-15,2,15,coke,"Diet Coke 12 oz. cans, 35 pk. A1",33.99,30.59
+2-16,2,16,coke,"Coca-Cola, Coke Classic, Original, 12oz Cans (Pack of 18, Total of 216 oz)",36.5,33.94
+2-17,2,17,coke,"Diet Coke Soda Soft Drink, 12 Fl Oz, 36 Pack",44.98,38.68
+2-18,2,18,coke,Diet Coke Mini (7.5oz / 30pk),33.99,30.25
+2-19,2,19,coke,"Diet Coca Cola Coke Soda, 12 oz (35 Cans)",39.95,35.96
+2-20,2,20,coke,Coca Cola Topus the Zebra Nigeria #0241,17.07,15.88
+2-21,2,21,coke,"Coca-Cola Soda Soft Drink, 2 Liters, 4 Pack",35.88,30.5
+2-22,2,22,coke,"Coca-Cola Zero Sugar, 20 Fl Oz Bottle (Pack of 12, Total of 240 Oz)",34.99,30.79
+2-23,2,23,coke,Sprite Mini Cans (7.5oz / 30pk),29.99,26.99
+2-24,2,24,coke,Fanta Fruit Twist (6x330ml),24.8,22.32
+2-25,2,25,coke,Fanta Lemon 330ml (Pack of 6),23.9,21.99
+2-26,2,26,coke,Fanta Lemon 330ml (Pack of 12),34.51,32.44
+2-27,2,27,coke,"Coca-Cola Zero Sugar, 20 Fl Oz Bottle (Pack of 16, Total of 320 Oz)",41.99,36.11
+2-28,2,28,coke,"Coca-Cola, Fanta, Sprite - Lemon-Lime, Canada Dry - Ginger Ale - Ultimate Variety Pack!, 7.5 oz Mini Cans (Pack of 18, Total of 135 Fl Oz)",45.1,39.24
+2-29,2,29,coke,Fanta Fruit Twist 330ml - Pack of 12,34.92,30.73
+2-30,2,30,coke,"Mexican Fanta Orange, 12oz Glass Bottle (Pack of 6, Total of 72 Oz)",41.45,38.96
+2-31,2,31,coke,Fanta Lemon 330ml (Pack of 12),53.18,49.46
+2-32,2,32,coke,Fanta Fruit Twist 330ml X 24,59.99,53.99
+2-33,2,33,coke,Fanta Icy Lemon Soft Drink Can 330 Ml (pack Of 24),67.99,62.55
+2-34,2,34,coke,"Coca-Cola Soda, 12 Fl. Oz.",1.3,1.2
+2-35,2,35,coke,"Coca-Cola Caffeine Free Soda Soft Drink, 12 fl oz, 12 Pack",4.98,4.23
+2-36,2,36,coke,"Coca-Cola Vanilla Soda Soft Drink, 12 fl oz, 12 Pack",3.5,3.12
+2-37,2,37,coke,"Coca-Cola Zero Caffeine-Free Soda Soft Drink, 12 fl oz, 12 Pack",4.68,4.21
+2-39,2,39,coke,"Coca-Cola Zero Vanilla Soda Soft Drink, 12 fl oz, 12 Pack",4.68,4.26
+3-0,3,0,coke,"(2 Pack) Coca-Cola Soda Soft Drink, 12 fl oz, 12 Pack",12.96,11.02
+3-1,3,1,coke,"Coca-Cola Soda Soft Drink, 12 fl oz, 24 Pack",8.78,7.64
+3-1,3,1,coke,"Coca-Cola Soda, Cherry Vanilla, 20 Fl Oz Single Bottle",1.88,1.62
+3-2,3,2,coke,"(2 pack) Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack",8.62,7.33
+3-2,3,2,coke,"Coca-Cola Zero Cherry Diet Soda Soft Drink, 20 fl oz",1.88,1.71
+3-3,3,3,coke,"(2 pack) Coca-Cola Soda Soft Drink, 7.5 fl oz, 10 Pack",9.96,9.06
+3-4,3,4,coke,"Coca-Cola Soda Soft Drink, 2 Liters",1.74,1.57
+3-4,3,4,coke,Sprite Ginger 20 oz single,1.88,1.64
+3-5,3,5,coke,"(2 Pack) Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack",12.96,11.79
+3-6,3,6,coke,"Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 24 Pack",8.78,7.73
+3-6,3,6,coke,"Diet Coke Ginger Lime Diet Soda Pop Soft Drink, Fridgepack, 12 fl oz, 12 Pack",4.98,4.63
+3-7,3,7,coke,"(2 pack) Diet Coke Soda Soft Drink, 16.9 fl oz, 6 Pack",8.62,7.76
+3-7,3,7,coke,"Coca-Cola Zero Cherry Diet Soda Soft Drink, 12 fl oz, 12 Pack",4.98,4.28
+3-8,3,8,coke,"(2 Pack) Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 12 Pack",12.96,11.79
+3-9,3,9,coke,"(2 pack) Coke Zero Sugar Diet Soda Soft Drink, 16.9 fl oz, 6 Pack",8.62,7.93
+3-10,3,10,coke,"Diet Coke Soda Soft Drink, 12 fl oz, 24 Pack",8.78,8.25
+3-11,3,11,coke,"(2 pack) Cherry Coke Mini Cans, Cherry Flavored Coca-Cola Soda Soda Soft Drink, Fridge Pack, 7.5 fl oz, 10 Pack",9.96,8.86
+3-12,3,12,coke,"(2 pack) Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack",8.62,7.84
+3-12,3,12,coke,"Diet Coke Fiesty Cherry Diet Soda Pop Soft Drink, Fridgepack, 12 fl oz, 12 Pack",4.98,4.48
+3-13,3,13,coke,"Diet Coke Caffeine Free Soda Soft Drink, 2 Liters",1.74,1.53
+3-14,3,14,coke,"(2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack",9.96,9.36
+3-15,3,15,coke,"Coca-Cola Soda Soft Drink, 8 fl oz, 6 Pack",4.68,3.98
+3-16,3,16,coke,"(2 pack) Diet Coke Soda Soft Drink, 7.5 fl oz, 10 Pack",10.65,9.69
+3-17,3,17,coke,"Diet Coke Soda Soft Drink, 2 Liters",1.74,1.6
+3-17,3,17,coke,"Diet Coke Sweetened w/ Splenda Soft Drink, 12 fl oz, 12 Pack",4.68,4.26
+3-18,3,18,coke,"Coke Zero Sugar Diet Soda Soft Drink, 2 Liters",1.74,1.62
+3-19,3,19,coke,"Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack",4.68,4.12
+3-20,3,20,coke,"(2 pack) Coca-Cola Orange Vanilla Soda Soft Drinks, 16.9 fl oz, 6 Pack",8.62,7.67
+3-21,3,21,coke,"Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack",2.76,2.54

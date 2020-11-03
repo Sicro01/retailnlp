@@ -1,0 +1,22 @@
+2020-10-30 18:26:38 - retailnlp - INFO - ################ starting ################
+2020-10-30 18:26:38 - retailnlp - INFO - create_products: starting
+2020-10-30 18:26:38 - retailnlp - INFO - create_products: ending: 105 products created
+2020-10-30 18:26:38 - retailnlp - INFO - create_invoices: starting
+2020-10-30 18:26:38 - retailnlp - INFO - create_invoices: ending: 10 invoices created
+2020-10-30 18:26:38 - retailnlp - INFO - save_list_as_csv: number of items being saved=105
+2020-10-30 18:26:38 - retailnlp - INFO - save_list_as_csv: number of items being saved=10
+2020-10-30 18:31:37 - retailnlp - INFO - ################ starting ################
+2020-10-30 18:31:37 - retailnlp - INFO - create_products: starting
+2020-10-30 18:31:37 - retailnlp - INFO - create_products: ending: 105 products created
+2020-10-30 18:31:37 - retailnlp - INFO - create_invoices: starting
+2020-10-30 18:31:37 - retailnlp - INFO - create_invoices: ending: 10 invoices created
+2020-10-30 19:07:26 - retailnlp - INFO - ################ starting ################
+2020-10-30 19:07:26 - retailnlp - INFO - create_products: starting
+2020-10-30 19:07:26 - retailnlp - INFO - create_products: ending: 105 products created
+2020-10-30 19:07:26 - retailnlp - INFO - create_invoices: starting
+2020-10-30 19:07:26 - retailnlp - INFO - create_invoices: ending: 10 invoices created
+2020-10-30 19:07:26 - retailnlp - INFO - save_list_as_csv: number of items being saved=105
+2020-10-30 19:07:26 - retailnlp - INFO - save_list_as_csv: number of items being saved=10
+2020-10-30 19:07:26 - retailnlp - INFO - save_list_as_csv: number of items being saved=123
+2020-10-30 19:07:26 - retailnlp - INFO - save_df_as_csv: number of items being saved=65
+2020-10-30 19:07:26 - retailnlp - INFO - log_remove_handlers: Removing all existing log handlers

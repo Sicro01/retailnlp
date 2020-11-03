@@ -1,0 +1,8 @@
+2020-10-30 17:51:39 - retailnlp - INFO - ################ starting ################
+2020-10-30 17:51:39 - retailnlp - INFO - create_products: starting
+2020-10-30 17:51:39 - retailnlp - INFO - create_products: ending: 105 products created
+2020-10-30 17:51:39 - retailnlp - INFO - save_list_as_csv: number of items being saved=105
+2020-10-30 17:51:39 - retailnlp - DEBUG - fuzzymatch: starting
+2020-10-30 17:51:39 - retailnlp - DEBUG - fuzzymatch: len matched_results=1209
+2020-10-30 17:51:39 - retailnlp - DEBUG - fuzzymatch: ending
+2020-10-30 17:51:39 - retailnlp - INFO - log_remove_handlers: Removing all existing log handlers

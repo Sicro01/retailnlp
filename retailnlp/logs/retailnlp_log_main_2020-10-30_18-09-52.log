@@ -1,0 +1,356 @@
+2020-10-30 18:09:52 - retailnlp - INFO - ################ starting ################
+2020-10-30 18:09:52 - retailnlp - INFO - create_products: starting
+2020-10-30 18:09:52 - retailnlp - INFO - create_products: ending: 105 products created
+2020-10-30 18:09:52 - retailnlp - INFO - create_invoices: starting
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-30 created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Mini (7.5oz / 30pk) created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Caffeine-Free Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke - 32/12 oz. cans by Coca-Cola created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mini Cans (7.5 Ounce, 30 Pack) created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-29 created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mini Cans (7.5 Ounce, 30 Pack) created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 1.25 Liters created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 8 fl oz, 6 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Sugar, 20 Fl Oz Bottle (Pack of 16, Total of 320 Oz) created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 12oz Cans (Pack of 18, Total of 216 oz) created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Cherry Coke Mini Cans, Cherry Flavored Coca-Cola Soda Soda Soft Drink, Fridge Pack, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:09:52 - retailnlp - DEBUG - create_invoices: invoice line for product Coca Cola Topus the Zebra Nigeria #0241 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-28 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Cherry Vanilla Coke, Cherry Vanilla Flavored Coca-Cola Soda Pop Soft Drink, Fridge Pack, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 8 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Fiesty Cherry Diet Soda Pop Soft Drink, Fridgepack, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca Cola Topus the Zebra Nigeria #0241 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 2 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Mexican Fanta Orange, 12oz Glass Bottle (Pack of 6, Total of 72 Oz) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 20 fl oz created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke 12 oz. cans, 35 pk. A1 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Vanilla Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-27 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Caffeine Free Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters, 4 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 1.25 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 2 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-26 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Fruit Twist 330ml - Pack of 12 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coke De Mexico Fiesta Pack Glass Bottles, Variety Pack, 12 Fl Oz, 12 Count created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 20 fl oz created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 Fl Oz, 36 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 2 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters, 4 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 12oz Cans (Pack of 18, Total of 216 oz) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-25 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Cherry Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Orange Vanilla Soda Soft Drinks, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coca Cola Coke Soda, 12 oz (35 Cans) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Sweetened w/ Splenda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coca-Cola Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Icy Lemon Soft Drink Can 330 Ml (pack Of 24) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-24 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 8 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 2 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 2 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Cherry Coke Mini Cans, Cherry Flavored Coca-Cola Soda Soda Soft Drink, Fridge Pack, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Fiesty Cherry Diet Soda Pop Soft Drink, Fridgepack, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Lemon 330ml (Pack of 12) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-23 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coca-Cola Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Caffeine Free Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 35 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Ginger Lime Diet Soda Pop Soft Drink, Fridgepack, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Vanilla Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Fruit Twist 330ml - Pack of 12 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 8 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 20 fl oz created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product diet coke, 12-ounce cans (pack of 24) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Fanta, Sprite - Lemon-Lime, Canada Dry - Ginger Ale - Ultimate Variety Pack!, 7.5 oz Mini Cans (Pack of 18, Total of 135 Fl Oz) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-22 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 1.25 Liters created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 Fl Oz, 36 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 12oz Cans (Pack of 18, Total of 216 oz) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 20 fl oz created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Sprite Ginger 20 oz single created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coca-Cola Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mini Cans (7.5 Ounce, 30 Pack) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-21 created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Vanilla Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Sugar, 20 Fl Oz Bottle (Pack of 12, Total of 240 Oz) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coca Cola Coke Soda, 12 oz (35 Cans) created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:09:53 - retailnlp - INFO - create_invoices: ending: 10 invoices created: 103 invoice lines created
+2020-10-30 18:10:27 - retailnlp - INFO - ################ starting ################
+2020-10-30 18:10:27 - retailnlp - INFO - create_products: starting
+2020-10-30 18:10:27 - retailnlp - INFO - create_products: ending: 105 products created
+2020-10-30 18:10:27 - retailnlp - INFO - create_invoices: starting
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-30 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Icy Lemon Soft Drink Can 330 Ml (pack Of 24) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 12oz Cans (Pack of 18, Total of 216 oz) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 fl oz, 8 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-29 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Sugar, 20 Fl Oz Bottle (Pack of 16, Total of 320 Oz) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 35 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Vanilla Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters, 4 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Cherry Vanilla Coke, Cherry Vanilla Flavored Coca-Cola Soda Pop Soft Drink, Fridge Pack, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 Fl Oz, 36 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Fruit Twist 330ml X 24 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 8 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-28 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Sweetened w/ Splenda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Lemon 330ml (Pack of 6) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Vanilla Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke De Mexico Fiesta Pack Glass Bottles, Variety Pack, 12 Fl Oz, 12 Count created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 20 fl oz created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 2 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Mexican Fanta Orange, 12oz Glass Bottle (Pack of 6, Total of 72 Oz) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Orange Vanilla Soda Soft Drinks, 16.9 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coca-Cola Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 35 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 20 fl oz created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Caffeine Free Soda Soft Drink, 2 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-27 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters, 4 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Cherry Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Orange Vanilla Soda Soft Drinks, 16.9 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Sugar, 20 Fl Oz Bottle (Pack of 12, Total of 240 Oz) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-26 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 20 fl oz created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coca Cola Coke Soda, 12 oz (35 Cans) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Fruit Twist 330ml X 24 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-25 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Orange Vanilla Soda Soft Drinks, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mini Cans (7.5 Ounce, 30 Pack) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Fiesty Cherry Diet Soda Pop Soft Drink, Fridgepack, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Cherry Vanilla Coke, Cherry Vanilla Flavored Coca-Cola Soda Pop Soft Drink, Fridge Pack, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 12 fl oz, 8 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Fruit Twist (6x330ml) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 12oz Cans (Pack of 18, Total of 216 oz) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 1.25 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 20 fl oz created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-24 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coca-Cola Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Lemon 330ml (Pack of 12) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 35 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 2 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Icy Lemon Soft Drink Can 330 Ml (pack Of 24) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke 18 pack (12 Oz Cans) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Orange Vanilla Soda Soft Drinks, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 8 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Cherry Vanilla Coke, Cherry Vanilla Flavored Coca-Cola Soda Pop Soft Drink, Fridge Pack, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-23 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 16.9 fl oz, 24 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 35 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Cherry Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Fruit Twist 330ml X 24 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 2 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Mini (7.5oz / 30pk) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-22 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 1.25 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 2 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Caffeine-Free Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Cherry Vanilla Coke, Cherry Vanilla Flavored Coca-Cola Soda Pop Soft Drink, Fridge Pack, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Cherry Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 2 Liters created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-21 created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Caffeine Free Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Cherry Diet Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Sprite Mini Cans (7.5oz / 30pk) created
+2020-10-30 18:10:27 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 2 Liters created
+2020-10-30 18:10:27 - retailnlp - INFO - create_invoices: ending: 10 invoices created: 98 invoice lines created
+2020-10-30 18:10:27 - retailnlp - INFO - save_list_as_csv: number of items being saved=105
+2020-10-30 18:10:28 - retailnlp - INFO - save_list_as_csv: number of items being saved=10
+2020-10-30 18:10:28 - retailnlp - INFO - save_list_as_csv: number of items being saved=98
+2020-10-30 18:13:50 - retailnlp - INFO - ################ starting ################
+2020-10-30 18:13:50 - retailnlp - INFO - create_products: starting
+2020-10-30 18:13:50 - retailnlp - INFO - create_products: ending: 105 products created
+2020-10-30 18:13:50 - retailnlp - INFO - create_invoices: starting
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-30 created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 12oz Cans (Pack of 18, Total of 216 oz) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 16.9 fl oz, 24 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 Fl Oz, 36 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product diet coke, 12-ounce cans (pack of 24) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-29 created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Fruit Twist (6x330ml) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 Fl Oz, 36 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 20oz Bottle (Pack of 10, Total of 200 oz) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-28 created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Fanta, Sprite - Lemon-Lime, Canada Dry - Ginger Ale - Ultimate Variety Pack!, 7.5 oz Mini Cans (Pack of 18, Total of 135 Fl Oz) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Sprite Ginger 20 oz single created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Icy Lemon Soft Drink Can 330 Ml (pack Of 24) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Orange Vanilla Soda Soft Drinks, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-27 created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Cherry Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 8 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 Pack) Diet Coke Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke, 7.5 oz Mini Cans (Pack of 12, Total of 90 Fl Oz) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Orange Vanilla Soda Soft Drinks, 20 fl oz created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Cherry Vanilla Coke, Cherry Vanilla Flavored Coca-Cola Soda Pop Soft Drink, Fridge Pack, 12 fl oz, 12 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Feisty Cherry Soda Soft Drink, 12 fl oz, 8 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters, 4 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 2 Liters created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product diet coke, 12-ounce cans (pack of 24) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-26 created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Cherry Diet Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product coca-cola drink cans, 12 fl. oz. (pack of 35) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda, Cherry Vanilla, 20 Fl Oz Single Bottle created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coke 18 pack (12 Oz Cans) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product diet coke, 12-ounce cans (pack of 24) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Cherry Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-25 created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coke 18 pack (12 Oz Cans) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 12 fl oz, 8 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Mexican Coke Fiesta Pack, 12 fl oz Glass Bottles (Pack of 6, Total of 72 Oz) created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 1.25 Liters created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Sugar Soda, Cherry Vanilla, 20 Fl Oz Single Bottle created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-24 created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 fl oz, 8 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Cherry Coke Mini Cans, Cherry Flavored Coca-Cola Soda Soda Soft Drink, Fridge Pack, 7.5 fl oz, 10 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 7.5 fl oz, 10 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke - 32/12 oz. cans by Coca-Cola created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Cherry Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Orange Vanilla Soda Soft Drinks, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Orange Vanilla Soda Soft Drinks, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca Cola Topus the Zebra Nigeria #0241 created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-23 created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Caffeine Free Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:13:50 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda, Cherry Vanilla, 20 Fl Oz Single Bottle created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 2 Liters created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Fruit Twist 330ml X 24 created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Icy Lemon Soft Drink Can 330 Ml (pack Of 24) created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Fiesty Cherry Diet Soda Pop Soft Drink, Fridgepack, 12 fl oz, 12 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke 12 oz. cans, 35 pk. A1 created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 2 Liters created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 12oz Cans (Pack of 18, Total of 216 oz) created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Sprite Mini Cans (7.5oz / 30pk) created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-22 created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 20oz Bottle (Pack of 10, Total of 200 oz) created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product diet coke, 12-ounce cans (pack of 24) created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 35 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Cherry Vanilla Coke, Cherry Vanilla Flavored Coca-Cola Soda Pop Soft Drink, Fridge Pack, 12 fl oz, 12 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters, 4 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Zero Cherry Diet Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Sprite Mini Cans (7.5oz / 30pk) created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice for date 2020-10-21 created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Sprite Mini Cans (7.5oz / 30pk) created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 12 fl oz, 24 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Cherry Soda Soft Drink, 20 fl oz created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 2 Liters created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola, Coke Classic, Original, 20oz Bottle (Pack of 10, Total of 200 oz) created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coca-Cola Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Caffeine Free Soda Soft Drink, 12 fl oz, 12 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 7.5 fl oz, 6 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Fanta Lemon 330ml (Pack of 12) created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Coke Zero Sugar Diet Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Diet Coke Soda Soft Drink, 1.25 Liters created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Soda Soft Drink, 8 fl oz, 6 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coke Zero Sugar Diet Soda Soft Drink, 12 fl oz, 8 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product (2 pack) Diet Coke Soda Soft Drink, 16.9 fl oz, 6 Pack created
+2020-10-30 18:13:51 - retailnlp - DEBUG - create_invoices: invoice line for product Coca-Cola Mexican Coke Soda Soft Drink, 355 mL, 4 Pack created
+2020-10-30 18:13:51 - retailnlp - INFO - create_invoices: ending: 10 invoices created: 98 invoice lines created
+2020-10-30 18:13:51 - retailnlp - INFO - save_list_as_csv: number of items being saved=105
+2020-10-30 18:13:51 - retailnlp - INFO - save_list_as_csv: number of items being saved=10
+2020-10-30 18:13:51 - retailnlp - INFO - save_list_as_csv: number of items being saved=98
+2020-10-30 18:13:51 - retailnlp - DEBUG - fuzzymatch: starting
+2020-10-30 18:13:51 - retailnlp - DEBUG - fuzzymatch:len df_invoice_lines_fm before dedupe=98
+2020-10-30 18:13:51 - retailnlp - DEBUG - fuzzymatch:len df_invoice_lines_fm after dedupe=58
+2020-10-30 18:13:52 - retailnlp - DEBUG - fuzzymatch: len matched_results=535
+2020-10-30 18:13:52 - retailnlp - DEBUG - fuzzymatch: ending
+2020-10-30 18:13:52 - retailnlp - INFO - log_remove_handlers: Removing all existing log handlers

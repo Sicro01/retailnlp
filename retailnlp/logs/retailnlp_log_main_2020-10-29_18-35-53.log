@@ -1,0 +1,9 @@
+2020-10-29 18:35:53 - retailnlp - INFO - ################ starting ################
+2020-10-29 18:35:53 - retailnlp - INFO - create_products: starting
+2020-10-29 18:35:53 - retailnlp - INFO - create_products: ending: 107 products created
+2020-10-29 18:35:53 - retailnlp - INFO - create_invoices: starting
+2020-10-29 18:35:53 - retailnlp - INFO - create_invoices: ending: 10 invoices created: 95 invoice lines created
+2020-10-29 18:35:53 - retailnlp - INFO - save_as_csv: number of items being saved=107
+2020-10-29 18:35:53 - retailnlp - INFO - save_as_csv: number of items being saved=10
+2020-10-29 18:35:53 - retailnlp - INFO - save_as_csv: number of items being saved=95
+2020-10-29 18:35:53 - retailnlp - INFO - log_remove_handlers: Removing all existing log handlers

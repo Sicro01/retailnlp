@@ -1,0 +1,37 @@
+Project 1
+=========
+Objective:
+Scrape product data and use the difference between the Web Selling Price and the generated Invoice Line Cost Price to calculate Invoice Line Product Margin ($ and %)
+Steps - Data:
+-------------
+(1) Scrape products from Walmart and create Products - Product Name (the search term),  Product Description, Web Selling Price, Rating
+(2) Using the scraped product data create a series of Invoices and Invoice Lines each linked to a Product
+(3) When creating the Invoice Lines, apply a % reduction to the Web Selling Price to create new columns of Cost Price, Margin % and Margin $
+(4) Alter some of the Invoice Line product cost prices to simulate an invoice line with a margin outlier
+
+Steps - Dashboard:
+------------------
+Enter: product search terms to scrape
+Tab 1 - display scraped data
+Tab 2 - display auto generated invoice lines based on scraped data, ranked in order of margin %
+Test - Detect an Invoice Line with a product whose margin exceeds a user specified discrepancy threshold %
+
+Project 2 
+=========
+Objective:
+Enter a new product and predict it's Retail Price / Margin / Cost Price based on product description parameters e.g. 2 liter bottle, diet strawberry flavored Coke:
+
+- Dept:
+- Brand: Coke
+- Product Description:
+	- Unit Size: 2 liter
+	- Container (Can/bottle):
+	- Pack Size (e.g. 24):
+	- Diet (Y/N): Y
+	- Flavour: Strawbery
+Steps - Data:
+-------------
+
+Dash:
+Enter: product parameters
+Tab 1 - display matching products and their Retail Price, Cost Price and Margin ($ and %)

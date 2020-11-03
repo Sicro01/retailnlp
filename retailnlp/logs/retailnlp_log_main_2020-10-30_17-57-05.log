@@ -1,0 +1,10 @@
+2020-10-30 17:57:05 - retailnlp - INFO - ################ starting ################
+2020-10-30 17:57:05 - retailnlp - INFO - create_products: starting
+2020-10-30 17:57:05 - retailnlp - INFO - create_products: ending: 105 products created
+2020-10-30 17:57:05 - retailnlp - INFO - save_list_as_csv: number of items being saved=105
+2020-10-30 17:57:05 - retailnlp - DEBUG - fuzzymatch: starting
+2020-10-30 17:57:05 - retailnlp - DEBUG - fuzzymatch:len df_invoice_lines_fm before dedupe=114
+2020-10-30 17:57:05 - retailnlp - DEBUG - fuzzymatch:len df_invoice_lines_fm after dedupe=42
+2020-10-30 17:57:06 - retailnlp - DEBUG - fuzzymatch: len matched_results=588
+2020-10-30 17:57:06 - retailnlp - DEBUG - fuzzymatch: ending
+2020-10-30 17:57:06 - retailnlp - INFO - log_remove_handlers: Removing all existing log handlers
